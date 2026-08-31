@@ -8,7 +8,7 @@ Week 01 · Setup & Hello World
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:** https://us04web.zoom.us/clips/share/xcyHLhnMQJWqONSeuD90rg https://us04web.zoom.us/clips/share/IwJ8zbtgSRGd5nRX02qqhw
 
 
 ## Requirements
